@@ -11,7 +11,7 @@ export const SiteDescription = `All releases of ${ProjectName} in one place.`;
 /**
  * GitHub repository (`owner/name`) whose releases are displayed.
  */
-export const GitHubRepository = "trueberryless-org/starlight-cooler-credit";
+export const GitHubRepository = "trueberryless/starlight-cooler-credit";
 
 /**
  * Package whose releases are displayed on the home page. Releases of every other package published from the
@@ -48,6 +48,6 @@ export const OgImage: string | undefined = undefined;
 /**
  * Whether minor and major releases of the main package display a generated release image.
  *
- * @see https://github.com/trueberryless-org/release-image-generator
+ * @see https://github.com/trueberryless/release-image-generator
  */
 export const ShowReleaseImages = true;

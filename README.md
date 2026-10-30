@@ -9,7 +9,7 @@ Create a changelog website from the GitHub releases of any repository, based on 
 - Minor and major releases of the main package display a generated release image.
 - Supports both dark and light modes.
 
-Examples built from this template: [Starlight Changelog](https://github.com/trueberryless-org/starlight-changelog) and [Astro Changelog](https://github.com/trueberryless-org/astro-changelog).
+Examples built from this template: [Starlight Changelog](https://github.com/trueberryless/starlight-changelog) and [Astro Changelog](https://github.com/trueberryless/astro-changelog).
 
 ## Configuration
 
@@ -35,4 +35,4 @@ The search index is generated at build time, so search is only available after r
 
 Licensed under the MIT License, Copyright © trueberryless.
 
-See [LICENSE](https://github.com/trueberryless-org/automatic-starlog-template/blob/main/LICENSE) for more information.
+See [LICENSE](https://github.com/trueberryless/automatic-starlog-template/blob/main/LICENSE) for more information.
